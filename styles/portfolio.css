@@ -48,10 +48,10 @@
 }
 
 /* header */
-.header {
-    background-image: url('../Images/developer.png'), url('../Images/header_bg.png');
+.header{
+    background-image: url('../images/developer.png'), url('../images/header_bg.png');
     background-repeat: no-repeat;
-    background-position: top left, bottom right ;
+    background-position: top left, bottom right;
 }
 
 /*Nav Styles */
@@ -88,7 +88,7 @@ nav li a {
 .banner {
     display: flex;
     justify-content: space-between;
-    margin: 0 35 0 200px;
+    margin: 0 35px 0 200px;
 }
 
 .banner-content {
